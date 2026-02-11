@@ -3,9 +3,14 @@
 > Engineer who likes to know how things work, from hardware to deployment.
 
 [![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square)](https://linkedin.com/in/dyrdahl)
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dyrdahl)
+&nbsp;
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:job@dyrdahl.co)
+&nbsp;
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=safari&logoColor=white)](https://dyrdahl.co)
 
 ---
-
 ## About Me
 
 Computer Science graduate with hands-on experience across the full stack: mobile development, backend APIs, databases, and cloud infrastructure. I've designed and deployed systems end-to-end, from CI/CD pipelines to production.
@@ -19,7 +24,7 @@ In my free time, I enjoy tinkering with electronics, like Arduino and Raspberry 
 ## Education
 
 **Bachelor of Science, Computer Science**
-CSU San Marcos (2022–2024) · _Cum Laude_
+CSU San Marcos (2022–2024) · **Major GPA: 3.97** · _Cum Laude_
 
 **Associate in Science, Computer Science**
 MiraCosta College (2022)
@@ -107,8 +112,3 @@ Browser-based games built with vanilla HTML/CSS/JavaScript, focusing on core gam
 
 ---
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dyrdahl)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:job@dyrdahl.co)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=safari&logoColor=white)](https://dyrdahl.co)
