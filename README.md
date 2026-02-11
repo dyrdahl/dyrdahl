@@ -97,6 +97,16 @@ Browser-based games built with vanilla HTML/CSS/JavaScript, focusing on core gam
 
 ---
 
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dyrdahl/dyrdahl/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dyrdahl/dyrdahl/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/dyrdahl/dyrdahl/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dyrdahl)
