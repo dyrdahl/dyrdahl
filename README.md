@@ -97,18 +97,6 @@ Browser-based games built with vanilla HTML/CSS/JavaScript, focusing on core gam
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dyrdahl&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyrdahl&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dyrdahl)
